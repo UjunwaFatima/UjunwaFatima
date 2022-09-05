@@ -1,6 +1,5 @@
 
 
-https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media
 
 <h1 align="center">Hi 👋, I'm Ujunwa Fatima Chiamaka Nnneoma</h1>
 <h3 align="center">A passionate flutter developer from Nigeria🇳🇬</h3>
