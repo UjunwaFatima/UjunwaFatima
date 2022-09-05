@@ -3,7 +3,7 @@
 https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media
 
 <h1 align="center">Hi 👋, I'm Ujunwa Fatima Chiamaka Nnneoma</h1>
-<h3 align="center">A passionate frontend developer from Nigeria🇳🇬</h3>
+<h3 align="center">A passionate flutter developer from Nigeria🇳🇬</h3>
 <img align=“right” alt=“coding” width=“400” src=“https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujunwafatima&label=Profile%20views&color=0e75b6&style=flat" alt="ujunwafatima" /> </p>
 
